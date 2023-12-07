@@ -1,6 +1,6 @@
 # Ft_ssl
 
-This program provides an implementation of popular cryptographic hashing algorithms, including MD5 and SHA256. It allows users to generate hash digests of strings, files, or standard input.
+This program provides an implementation of popular cryptographic hashing algorithms, including MD5, SHA256 and Whirlpool. It allows users to generate hash digests of strings, files, or standard input.
 
 ## Getting Started
 These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
